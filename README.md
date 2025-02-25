@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mariapreethi-3688
-- 👀 I’m interested in Data analyst with Python
+- 👀 I’m interested in Data analyst with Python Developer
 - 🌱 I’m actively looking for a job 
 - 💞️ I’m looking to collaborate on teams
-- 📫 How to reach me preethiriya02@gmail.com
+- 📫 How to reach me preethiriya02@gmail.com & mobile : +91-9524017121
 - 😄 Pronouns: she/ Her
 - ⚡ Fun fact: 
 
