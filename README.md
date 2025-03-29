@@ -1,6 +1,9 @@
 - 👋 Hi,There
--  I’m Maria Preethi
-- 👀 I’m interested in Data analyst with Python Developer
+- 😊I’m Maria Preethi
+- 👩‍🎓Engineering Graduate in Electronics&communication B.E.,(ECE) depatment
+- 😎Certified Data Analyst with Python
+- 👩‍💻2.5 years of experience in Manual Testing (Functional)
+- 👀 I’m interested in Data analyst / Business Analyst / Data Analyst Intern Position
 - 🌱 I’m actively looking for a job 
 - 💞️ I’m looking to collaborate on teams
 - 📫 How to reach me preethiriya02@gmail.com & mobile : +91-9524017121
