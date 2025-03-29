@@ -6,7 +6,7 @@
 - 📫 How to reach me preethiriya02@gmail.com & mobile : +91-9524017121
 - Goal: Learning lot of analyzing and visualization methods to develop myself in career
 - 😄 Pronouns: she/ Her
-- ⚡ Fun fact: I Ove to draw and nature lover
+- ⚡ Fun fact: I love to draw and nature lover
 
 <!---
 Mariapreethi-3688/Mariapreethi-3688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
